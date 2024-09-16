@@ -1,2 +1,3 @@
-# linkedlist
+# Linked List
+implemented using OOP 
  
